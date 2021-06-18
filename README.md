@@ -32,7 +32,7 @@ General Web projects, from building a simple website to building tools for compl
 Building automated bots is something you really want to try out at some point in your career/life.  
   - [ ] [Chatbot](#chatbot)
   - [ ] [Slack Bot](#slack-bot)
-  - [ ] [Twitter Bot](#twitter-bot)
+  - [x] [Twitter Bot](#twitter-bot)
   - [ ] [Messenger Bot](#messenger-bot)
   - [ ] [WhatsApp Butler](#whatsapp-butler)
 ### Software & Apps  
@@ -114,7 +114,7 @@ All work and no play makes jack a dull boy! Games are a must to enjoy and learn 
   - [ ] [Elevator Simulator](#elevator-simulator)
   - [ ] [Simulate the World](#simulate-the-world)
   - [ ] [Character Generator](#character-generator)
-  - [ ] [Conway's Game of Life](#game-of-life)
+  - [x] [Conway's Game of Life](#game-of-life)
 ### Miscellaneous  
 These were alone in their own categories and I didn't want them to feel alone, so I pooled them together.  
   - [ ] [Deal Finder](#deal-finder)
