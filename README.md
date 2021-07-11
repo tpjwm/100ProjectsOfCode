@@ -1,15 +1,5 @@
 # 100ProjectsOfCode
-A list of practical knowledge-building projects. As the projects are aimed to increase your knowledge base, they are somewhat challenging. However, there are a few easy ones too. Many of them are even worthy enough to showcase on your portfolio.   
-The projects are divided into multiple categories and tagged with some suggested languages and frameworks/tools (I'm still working on this part) to get you started.
-
-## Getting Started
-To get started with the project ideas:
-1. Pick a project from the list
-2. Create a GitHub repository for the project
-3. Start working, possibly from scratch (reinvent the wheel if you have to!)
-4. When done, test it, and share with the tag #100ProjectsOfCode somewhere in the README of the repo
-5. Fork this repo
-6. Check the completed item, and repeat with another project idea
+A list of practical knowledge-building projects.
 
 ## Categories
 
@@ -25,7 +15,7 @@ General Web projects, from building a simple website to building tools for compl
   - [ ] [Bandwidth Monitor](#bandwidth-monitor)
   - [ ] [Product Landing Page](#product-landing-page)
   - [ ] [Create Your Own Blog](#blog)
-  - [ ] [Your Portfolio Website](#portfolio-website)
+  - [x] [Your Portfolio Website](#portfolio-website)
   - [ ] [Animated Navigation Toggle](#animated-navigation-toggle)
   - [ ] [Country Lookup using IP address](#country-lookup-using-ip-address)
 ### Bots  
