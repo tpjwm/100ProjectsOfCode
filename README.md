@@ -6,9 +6,9 @@ A list of practical knowledge-building projects.
 ### General Web & Networking Projects  
 General Web projects, from building a simple website to building tools for complex and difficult networking tasks like packet sniffing.  
   - [ ] [FTP Client](#ftp-client)
-  - [ ] [HTTP Server](#http-server)
-  - [ ] [Web Scraper](#web-scraper)
-  - [ ] [Port Scanner](#port-scanner)
+  - [x] [HTTP Server](#http-server)
+  - [x] [Web Scraper](#web-scraper)
+  - [x] [Port Scanner](#port-scanner)
   - [ ] [Packet Sniffer](#packet-sniffer)
   - [ ] [P2P File Sharing](#p2p-file-sharing)
   - [ ] [Web Search Engine](#search-engine)
@@ -23,16 +23,16 @@ Building automated bots is something you really want to try out at some point in
   - [ ] [Chatbot](#chatbot)
   - [ ] [Slack Bot](#slack-bot)
   - [x] [Twitter Bot](#twitter-bot)
-  - [ ] [Messenger Bot](#messenger-bot)
+  - [x] [Messenger Bot](#messenger-bot)
   - [ ] [WhatsApp Butler](#whatsapp-butler)
 ### Software & Apps  
 Proper software or application suggestions that you may even end up using in your daily life, like a simple text editor or a custom music player.  
   - [ ] [Quiz App](#quiz-app)
   - [ ] [Firewall](#firewall)
-  - [ ] [ToDo List](#todo-list)
+  - [x] [ToDo List](#todo-list)
   - [ ] [Text Editor](#text-editor)
   - [ ] [App Builder](#application-builder)
-  - [ ] [Drawing App](#drawing-app)
+  - [x] [Drawing App](#drawing-app)
   - [ ] [Survey App](#survey-app)
   - [ ] [Web Browser](#web-browser)
   - [ ] [Weather App](#weather-app)
