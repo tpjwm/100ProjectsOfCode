@@ -5,7 +5,7 @@ A list of practical knowledge-building projects.
 
 ### General Web & Networking Projects  
 General Web projects, from building a simple website to building tools for complex and difficult networking tasks like packet sniffing.  
-  - [ ] [FTP Client](#ftp-client)
+  - [x] [FTP Client](#ftp-client)
   - [x] [HTTP Server](#http-server)
   - [x] [Web Scraper](#web-scraper)
   - [x] [Port Scanner](#port-scanner)
